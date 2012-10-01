@@ -1,4 +1,4 @@
-pondlife
+pond life
 ========
 
 Canvas experiment.
